@@ -37,4 +37,4 @@ An autonomous mobile mechatronics platform featuring real-time target acquisitio
 * 🎬 **Video Demonstration:** https://youtube.com/shorts/nvDAaMXsMAE
 
 ## Portfolio
-**Link** https://tricky-havarti-5bc.notion.site/Ivan-Pashko-307bd76b1e9f81b7a6ace373ac3ce0d5
+* **Link** https://tricky-havarti-5bc.notion.site/Ivan-Pashko-307bd76b1e9f81b7a6ace373ac3ce0d5
