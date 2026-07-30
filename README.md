@@ -34,4 +34,4 @@ An autonomous mobile mechatronics platform featuring real-time target acquisitio
 ---
 
 ## Demo
-* 🎬 **Video Demonstration:** [Paste your YouTube link here]
+* 🎬 **Video Demonstration:** https://youtube.com/shorts/nvDAaMXsMAE
